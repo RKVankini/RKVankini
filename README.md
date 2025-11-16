@@ -1,37 +1,88 @@
 # 👋 Hi, I'm Rama Krishna Vankini
 
-I'm an aspiring **Cloud & DevOps Engineer** focused on building secure, scalable, and automated infrastructure using AWS and modern DevOps tools. I enjoy turning real-world challenges into robust, cloud-native solutions through scripting, automation, and clean infrastructure design.
+Aspiring **Cloud & DevOps Engineer** passionate about building secure, scalable, and automated cloud infrastructures. I enjoy working with AWS, Terraform, CI/CD, monitoring tools, and modern DevOps practices to turn ideas into reliable deployments.
 
 ---
 
 ## 🧠 About Me
 
-I specialize in core AWS services such as **EC2**, **RDS**, **S3**, **IAM**, **VPC**, and **Route 53**, with a strong focus on **Infrastructure as Code (IaC)** using **Terraform**. I’ve implemented multi-tier architectures with **Auto Scaling Groups**, **Application Load Balancers**, and **private RDS databases**.
-
-I build CI/CD pipelines using **Jenkins** and **GitHub Actions**, and monitor infrastructure using **Prometheus** and **Grafana**. I’m also skilled in **Python scripting** and **Linux administration**.
-
-Currently, I’m diving deeper into **cloud security**, **serverless computing**, and **cost-optimized infrastructure design**.
+- Skilled in deploying **3-tier AWS architectures** using Terraform (root & child modules)  
+- Experience in **EC2-based frontend & backend deployments**, private RDS, Route 53 private DNS  
+- Strong understanding of **VPC design**, security groups, subnets, ALB, ASG, IAM  
+- Hands-on with writing automation scripts using **Python** & **Linux**  
+- Built CI/CD pipelines using **Jenkins** and **GitHub Actions**  
+- Implemented monitoring using **Prometheus + Grafana**  
+- Previously worked as a **US IT Recruiter** & **Bench Sales Recruiter**, improving communication and coordination skills  
+- Always exploring cloud security, cost optimization, and serverless computing  
 
 ---
 
 ## ⚙️ Tech Stack
 
-- **Cloud:** AWS (EC2, S3, RDS, IAM, VPC, Route 53, Lambda, ASG)
-- **IaC & Automation:** Terraform, Bash
-- **CI/CD:** Jenkins, GitHub Actions
-- **Languages & OS:** Python, Linux
-- **Monitoring:** Prometheus, Grafana
-- **Tools:** MobaXterm, PyCharm, MySQL Workbench
+### ☁️ Cloud
+- AWS (EC2, VPC, RDS, S3, IAM, Route 53, ALB, ASG, Lambda)
+
+### 🏗️ IaC & Automation
+- Terraform (Modules, Remote Provisioners)  
+- Bash Scripting  
+
+### 🚀 CI/CD
+- Jenkins  
+- GitHub Actions  
+
+### 🧩 Programming & OS
+- Python  
+- Linux  
+
+### 📊 Monitoring
+- Prometheus  
+- Grafana  
+
+### 🛠️ Tools
+- Git & GitHub  
+- MySQL Workbench  
+- MobaXterm  
+- PyCharm  
 
 ---
 
-## 📌 Projects Highlight
+## 📌 Projects
 
-- ✅ Full 3-tier architecture deployment on AWS using Terraform  
-- ✅ EC2-based full-stack app deployment with private DNS via Route 53  
-- ✅ CI/CD pipeline setup with Jenkins and GitHub Actions  
-- ✅ Infrastructure monitoring with Prometheus and Grafana
+### 🔹 **3-Tier AWS Architecture with Terraform**
+- VPC with public/private subnets across 3 AZs  
+- ALB + Auto Scaling Group backend  
+- Private RDS with Secrets Manager  
+- Modular Terraform structure (VPC, EC2, ALB, ASG, RDS)
+
+### 🔹 **Full-Stack EC2 Deployment**
+- Apache for frontend, Node.js + PM2 for backend  
+- Private Route 53 DNS (book.rds.com)  
+- Secure communication between app tiers  
+
+### 🔹 **CI/CD Pipelines**
+- Jenkins job for automated backend deployment  
+- GitHub Actions for app build & test workflow  
+
+### 🔹 **Monitoring Setup**
+- Prometheus node exporters  
+- Grafana dashboards for EC2 & application metrics  
 
 ---
 
-*Always learning. Always building.*
+## 🌱 Currently Learning
+
+- Cloud Security  
+- Lambda + API Gateway  
+- Cost Optimization  
+- Advanced Terraform Design Patterns  
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** *(add your link here)*  
+- **GitHub:** github.com/RamaKrishnaVankini  
+
+---
+
+⭐ *“Always learning. Always building.”*

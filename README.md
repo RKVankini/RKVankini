@@ -80,8 +80,8 @@ Aspiring **Cloud & DevOps Engineer** passionate about building secure, scalable,
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** *(add your link here)*  
-- **GitHub:** github.com/RamaKrishnaVankini  
+- **LinkedIn:** 
+- **GitHub:**   github.com/RKVankini
 
 ---
 

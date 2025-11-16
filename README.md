@@ -1,22 +1,29 @@
 # 👋 Hi, I'm Rama Krishna Vankini
 
-Aspiring **Cloud & DevOps Engineer** passionate about building secure, scalable, and automated cloud infrastructure. I specialize in AWS, Azure, GCP, Terraform, CI/CD, and modern monitoring tools.
+Aspiring **Cloud & DevOps Engineer** passionate about building secure, automated, and scalable cloud infrastructures across **AWS**, **Azure**, and **Google Cloud Platform (GCP)**. I specialize in Terraform, CI/CD, containerization, configuration management, and monitoring.
 
 ---
 
 ## ☁️ Cloud & DevOps Badges
 
 <p align="left">
+
   <!-- Cloud Platforms -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 
-  <!-- IaC & OS -->
+  <!-- IaC & Automation -->
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
 
-  <!-- Programming -->
+  <!-- Containers & Orchestration -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+  <!-- OS & Scripting -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
   <!-- CI/CD -->
@@ -29,41 +36,45 @@ Aspiring **Cloud & DevOps Engineer** passionate about building secure, scalable,
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- Hands-on experience designing **3-tier AWS architectures** using Terraform  
-- Skilling up in **Azure** and **Google Cloud (GCP)** cloud services  
-- Strong in **VPC**, subnets, routing, ALB, ASG, IAM, and secure RDS setups  
-- Deploying full-stack applications on EC2 with Apache, Node.js, and PM2  
-- CI/CD pipeline building with **Jenkins** & **GitHub Actions**  
-- Monitoring cloud resources with **Prometheus + Grafana**  
-- Automation using **Python** and **Bash**  
-- Past experience as a **US IT Recruiter** & **Bench Sales Recruiter**  
+- Hands-on in **Multi-Cloud** (AWS, Azure, GCP)  
+- Strong experience with **Terraform**, **Ansible**, **Docker**, and **Kubernetes**  
+- Built **3-tier AWS architectures** using Terraform (root & child modules)  
+- Deployed **frontend + backend apps on EC2**, integrated with private RDS  
+- Skilled in **VPC design**, routing, security groups, ALB, ASG, IAM  
+- CI/CD pipelines using **Jenkins** & **GitHub Actions**  
+- Monitoring with **Prometheus + Grafana**  
+- Automation using **Python** & **Bash**  
+- 6 months US IT Recruiter + 6 months Bench Sales Recruiter experience  
 
 ---
 
 ## ⚙️ Tech Stack
 
 ### ☁️ Cloud Platforms
-- **AWS** – EC2, VPC, RDS, S3, IAM, Route 53, ALB, ASG  
-- **Azure** – VMs, Storage, Networking (learning)  
-- **GCP** – Compute Engine, VPC, Cloud SQL (learning)
+- **AWS:** EC2, VPC, RDS, S3, IAM, Route 53, ALB, ASG  
+- **Azure:** VMs, VNets, Storage, IAM, Azure DNS  
+- **GCP:** Compute Engine, VPC, IAM, Cloud DNS  
 
 ### 🏗️ IaC & Automation
-- Terraform (Modules, Provisioners)  
+- Terraform  
+- Ansible  
 - Bash  
+- Python  
+
+### 🐳 Containers & Orchestration
+- Docker  
+- Kubernetes  
 
 ### 🚀 CI/CD
 - Jenkins  
 - GitHub Actions  
-
-### 🧩 Programming & OS
-- Python  
-- Linux  
 
 ### 📊 Monitoring
 - Prometheus  
@@ -72,39 +83,39 @@ Aspiring **Cloud & DevOps Engineer** passionate about building secure, scalable,
 ### 🛠️ Tools
 - Git & GitHub  
 - MySQL Workbench  
-- PyCharm  
 - MobaXterm  
+- PyCharm  
 
 ---
 
 ## 📌 Projects
 
-### 🔹 **3-Tier AWS Architecture using Terraform**
-- Multi-AZ VPC  
-- ALB + Auto Scaling Group  
-- Private RDS  
-- Modular Terraform  
+### 🔹 **3-Tier AWS Architecture (Terraform)**
+- VPC with 3 public + 3 private subnets  
+- ALB + ASG backend  
+- Private RDS + Secrets Manager  
+- Terraform modules (VPC, EC2, ALB, ASG, RDS)
 
-### 🔹 **Full-Stack EC2 Deployment**
+### 🔹 **Full-Stack EC2 App Deployment**
 - Apache frontend  
-- Node.js backend with PM2  
-- Private Route 53 DNS  
+- Node.js backend + PM2  
+- Private Route 53 DNS (book.rds.com)
 
 ### 🔹 **CI/CD Pipelines**
-- Jenkins automated deployments  
-- GitHub Actions build + test workflow  
+- Jenkins build/deploy pipeline  
+- GitHub Actions test & packaging workflow  
 
-### 🔹 **Cloud Monitoring Setup**
+### 🔹 **Monitoring Setup**
 - Prometheus exporters  
 - Grafana dashboards  
 
 ---
 
 ## 🌱 Currently Learning
-- Azure & GCP cloud services  
 - Cloud Security  
 - Lambda + API Gateway  
-- Advanced Terraform patterns  
+- Cost Optimization  
+- Advanced Terraform Patterns  
 
 ---
 

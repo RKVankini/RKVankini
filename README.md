@@ -109,8 +109,9 @@ Aspiring **Cloud & DevOps Engineer** passionate about building secure, scalable,
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** *(add your link)*  
-- **GitHub:** github.com/RamaKrishnaVankini  
+- **Email:** ramakrishnavankini7@gmail.com
+- **LinkedIn:** 
+- **GitHub:** github.com/RKVankini  
 
 ---
 

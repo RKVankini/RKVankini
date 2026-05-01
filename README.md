@@ -81,10 +81,8 @@ Aspiring **Cloud & DevOps Engineer** passionate about building secure, automated
 - Grafana  
 
 ### 🛠️ Tools
-- Git & GitHub  
-- MySQL Workbench  
-- MobaXterm  
-- PyCharm  
+- Git & GitHub
+- Vs Code
 
 ---
 

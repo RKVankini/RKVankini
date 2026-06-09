@@ -50,8 +50,7 @@ Aspiring **Cloud & DevOps Engineer** passionate about building secure, automated
 - Skilled in **VPC design**, routing, security groups, ALB, ASG, IAM  
 - CI/CD pipelines using **Jenkins** & **GitHub Actions**  
 - Monitoring with **Prometheus + Grafana**  
-- Automation using **Python** & **Bash**  
-- 6 months US IT Recruiter + 6 months Bench Sales Recruiter experience  
+- Automation using **Python** & **Bash**    
 
 ---
 
@@ -106,6 +105,7 @@ Aspiring **Cloud & DevOps Engineer** passionate about building secure, automated
 ### 🔹 **Monitoring Setup**
 - Prometheus exporters  
 - Grafana dashboards  
+- Splunk
 
 ---
 <!-- 

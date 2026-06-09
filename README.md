@@ -77,7 +77,8 @@ Aspiring **Cloud & DevOps Engineer** passionate about building secure, automated
 
 ### 📊 Monitoring
 - Prometheus  
-- Grafana  
+- Grafana
+- Splunk 
 
 ### 🛠️ Tools
 - Git & GitHub
@@ -105,7 +106,6 @@ Aspiring **Cloud & DevOps Engineer** passionate about building secure, automated
 ### 🔹 **Monitoring Setup**
 - Prometheus exporters  
 - Grafana dashboards  
-- Splunk
 
 ---
 <!-- 
